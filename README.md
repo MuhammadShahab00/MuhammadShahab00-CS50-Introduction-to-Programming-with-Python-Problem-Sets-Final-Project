@@ -96,7 +96,9 @@ Therefore, Shahab should start charging his EV at 3:00 AM to make the most of th
 ***Visualization***
 
 1: **Electricity Prices**: Visualize the hourly electricity prices in a line plot to give a graphical representation of the price trend.
+
 2: **Battery Status**: Display the current battery status in a bar chart.
+
 3: **Charging Schedule**: Visualize the recommended charging schedule in a bar chart, highlighting the user-preferred timeframe and the optimized start time for charging.
 
 Through this algorithm, the script provides a simple yet effective way to determine the most cost-effective charging schedule, aligning with user preferences and the vehicle's battery needs, while offering a visual representation of various data points to the user.
